@@ -1,1 +1,7 @@
 print("Hola perro del mal")
+print("algo")
+print("algo")
+print("algo")
+print("algo")
+print("algo")
+print("algo")
